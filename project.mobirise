@@ -1,0 +1,1030 @@
+{
+  "settings": {
+    "name": "Górskie Pleciuchy",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#28324e",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#41a85f",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Lora",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 70,
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Górskie Pleciuchy",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#27713d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#308c4b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#349751"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#28324e!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#349751",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GÓRSKIE PLECIUCHY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">REDAKCJA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ARTYKUŁY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">2017</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"styczen-2017.html\">STYCZEŃ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kwiecien-2017.html\">KWIECIEŃ</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"kwiecien-2017.html\">NAJNOWSZE</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "GÓRSKIE PLECIUCHY",
+          "text": "- PLECIUCH.GÓRSKI.EDU.PL -",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"kwiecien-2017.html\" data-toolbar=\"-mbrBtnMove\">SPRAWDŹ NAJNOWSZE ARTYKUŁY</a> "
+        }
+      ]
+    },
+    "styczen-2017.html": {
+      "settings": {
+        "title": "Artykuły - Styczeń 2017",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#27713d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#308c4b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#349751"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#28324e!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m",
+          "_params": {
+            "bgColor": "#349751",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GÓRSKIE PLECIUCHY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">REDAKCJA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ARTYKUŁY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">2017</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"styczen-2017.html\">STYCZEŃ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kwiecien-2017.html\">KWIECIEŃ</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"kwiecien-2017.html\">NAJNOWSZE</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-w",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "STYCZEŃ 2017",
+          "text": "Wszystkie artykuły wydane w styczniu 2017 r.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-o",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "BRAVE KIDS W GÓRSKIM",
+          "text": "<p>~Julia Juszczyk</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Brave Kids jest ideą spotkań dzieci z różnych części świata. Dzięki temu projektowi dzieci z ubogich środowisk, miejsc, w których życie nie wygląda tak jak nasze, mogą spędzić w kilku miastach Polski parę tygodni i rozwijać swoje talenty oraz umiejętności. Przez sześć Polskę odwiedziły już setki osób w wieku d 7 do 18 lat, z krajów takich jak Gruzja, Meksyk, Iran, Indie, Uganda, Tanzania, Nepal czy Wietnam. Z roku na rok państw biorących udział w tym wydarzeniu jest coraz więcej.</p><p><br></p><p>Co to jest Brave Kids:</p><ul><li>Głos odważnych dzieci,</li><li>Pozwalamy im mówić, co przywraca im godność,</li><li>Wymiana doświadczeń,</li><li>Dzielenie się własną kulturą, zamiast dzielenia kulturowego,</li><li>Trenowanie skuteczności,</li><li>Takie same możliwości,</li><li>Brave Kids to coś więcej niż jednorazowy event. Chcemy tworzyć długotrwałą współpracę z grupami dzieci z całego świata,</li><li>Sztuka, która tworzy dialogi,</li><li>Dzieci z najodleglejszych zakątków świata, mogą się spotkać i komunikować w najbardziej uniwersalnym języku świata,</li><li>języku sztuki,</li><li>W Brave Kids wezmą udział dzieci, których status materialny jest zróżnicowany. Ich wspólna praca udowodni, że mogą złamać barierę ubóstwa.</li></ul><p><br></p><p>Kilkunastu naszych uczniów wraz z nauczycielem ekonomii, Panią Barbarą Rybak, postanowiło zorganizować piknik inauguracyjny kolejnej edycji Brave Kids, na terenie naszej szkoły. Zapraszamy do angażowania się i dołączania do kolejnej edycji Brave Kids.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-x",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "CZY WARTO GRAĆ W GRY KOMPUTEROWE I CO Z TEGO MAMY?",
+          "text": "<p>~Caslau Kobets</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Istnieje wiele rozwijających gier, które mogą nam pomóc w codziennym życiu. Są gry, których fabuła odwołuje się do historii, np. Battlefield 1. Ta gra pokazuje nam, jak mogły wyglądać działania wojenne podczas pierwszej wojny światowej. Możemy w niej zobaczyć, jakiej broni oraz rodzaju uzbrojenia używano w tamtych czasach.</p><p><br></p><p>Natomiast dzięki MOBA młodzi ludzie rozwijają kreatywne, strategiczne myślenie, dlatego większość młodych intelektualistów gra w LOL’a i DOTA 2.</p><p><br></p><p>Są też gry, których ideą jest przyspieszenie reakcji graczy i podejmowanie szybkiej decyzji. \"Co mamy zrobić w tym oto określonym momencie?\". Do tego typu gier należą: OSU, CS GO, Battlefield 1, DOTA 2 itp…</p><p><br></p><p>Istnieją również gry, np. Dark Souls 3, w których musimy cały czas przewidywać i wyczuwać intencje przeciwników, żeby nie przegrać. A zatem gry rozwijają różne umiejętności, uczą samodzielnego myślenia i szybkiego podejmowania słusznych decyzji. Należy jednak pamiętać, że są one tylko częścią wirtualnego świata.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-12",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "DLACZEGO HARCERSTWO?",
+          "text": "<p>~Tomasz Gwistka</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-13",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Każdy z Was słyszał zapewne o harcerstwie. Jednak, poznałem wiele opinii dotyczących harcerstwa, i niestety, muszę stwierdzić, że ludzie nie do końca wiedzą, czym jest harcerstwo, dlatego nie są nim zainteresowani. Słysząc słowo „harcerstwo”, młodzi ludzie wyobrażają sobie dorosłych ludzi w zielonych mundurkach, bawiących się w berka w lesie, piekących kiełbaski i śpiewających piosenki. To nie jest jednak prawdziwe oblicze harcerstwa.</p><p><br></p><p>Genezą harcerstwa było propagowanie wśród młodych ludzi kultu niepodległościowego, miłości do ojczyzny i Boga, oraz nastawienie na samorozwój młodych ludzi. Bycie harcerzem to nie tylko zabawa, ale przede wszystkim zaszczyt i obowiązek. Podczas zbiórek harcerze nie tylko spędzają wspólnie czas na zabawach, konkursach, zdobywaniu sprawności. Większość czasu poświęcają pomocy potrzebującym. Ludzie uważający, że harcerze zajmują się tylko zabawą oraz są po prostu niedojrzali.</p><p><br></p><p>Każda zbiórka uczy nowych umiejętności i, nie mówię tu tylko o umiejętnościach przydatnych w lesie czy innych ekstremalnych warunkach, harcerstwo podejmuje tematy bliskie każdemu z Nas, pomocne w codziennym życiu. Raz na jakiś czas odbywają się wyjścia w teren, aby zaprezentować lub sprawdzić zebrane umiejętności albo, by wykonać jakąś pracę, a w wakacje organizowane są obozy harcerskie, podczas których możemy poznać nowych ludzi oraz po prostu spędzić czas, doskonale się bawiąc.</p><p><br></p><p>Trudno pokrótce opisać, czym jest harcerstwo, najlepszym sposobem na jego poznanie, jest udanie się na jedną ze zbiórek harcerskich. Nie bój się, niczego nie ryzykujesz! Jeżeli coś Ci się nie spodoba, to nie jest problem, ponieważ ZHP (Związek Harcerstwa Polskiego) prowadzi teraz reformę harcerstwa oraz całego Prawa Harcerskiego. A zatem, jeśli masz jakieś uwagi, możesz je przedstawić, a one na pewno zostaną wzięte pod uwagę. Każdy może być harcerzem, każdy powinien tego spróbować, bo kto wie, czy nie będzie to początek wspaniałych przygód? A może poznasz jakąś ciekawą osobę? Nie wiesz, póki nie spróbujesz!</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-14",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "CZYM JEST DEPRESJA?",
+          "text": "<p>~Wiktoria Wojno</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Depresja to zespół zaburzeń psychicznych dotykających nastroju. Chorują na nią ludzie młodzi i dorośli. Nie do końca znane są przyczyny pojawiania się depresji, określa się natomiast tylko czynniki, które wspomagają jej powstanie.</p><p><br></p><p>Osoby ,które cierpią na depresję, przestają odczuwać radość, trzymają się na uboczu, z nikim nie rozmawiają . Wówczas też ich samoocena spada, myślą źle o swoim życiu, o tym co było, jest i będzie. Pojawiają się też objawy cielesne, takie jak utrata wagi lub jej wzrost, zmęczenie itd.</p><p><br></p><p>Gdy depresja pogłębia się, osoba chora zaczyna się samo okaleczać. Ten akt jest pewnego rodzaju proszeniem o pomoc, chęcią pokazania, że coś jest nie tak. Dlaczego niektórzy to robią?C ięcie się przynosi im ulgę. Kiedy nie wytrzymują psychicznie, zaczynają zadawać sobie ból fizyczny, by stłamsić choć trochę ból psychiczny. Takim osobom potrzebna jest pomoc. Jednak nie mo- gą to być frazesy w stylu „Będzie dobrze, nie przesadzaj”. Takie rady, słowa „pocieszenia” pokazują raczej, że rozmówca bagatelizuje problem. Przede wszystkim należy namawiać osobę dotkniętą depresją, aby udała się do specjalisty. Sama bowiem, nawet z pomocą życzliwego przyjaciela, nie jest w stanie sobie pomóc. Należy nieść osobom cierpiącym na depresję słowa otuchy, ponieważ ludzie ci czują się gorsi, bezużyteczni. Taki stan ducha pogłębia tylko ich dolegliwości.</p><p><br></p><p>Jednak należy pamiętać, że nie zawsze osoby, które się tną mają problemy. Niektórzy chcą po prostu zwrócić na siebie uwagę. Chcą, by ktoś się nimi przejął. Robią to, by wzbudzić u innych współczucie lub po prostu w nierozsądny sposób chcą się one popisać.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-16",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "WODNIK 22.01 - 21.02",
+          "text": "<p>~Marta Mieczkowska</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>2 grudnia Merkury wejdzie w znak Koziorożca, co będzie miało odbicie w Twoim życiu towarzyskim. W najbliższym czasie Twoje relacje będą układały się kwitnąco, ale będziesz wyjątkowo niechętnie nastawio- na do nowopoznanych osób. To raczej moment na pielęgnowanie tego, co już jest niż rozglądanie się na boki. 7 grudnia Wenus wejdzie w Twój znak, co ułatwi Ci zadbanie o kondycję fizyczną. Jeśli odstrasza Cię temperatura, wybierz się do term. Ciepła woda, a w szczególności solanki, dobrze wpłyną na Twoją skórę oraz samopoczucie, a jeśli dodatkowo przepłyniesz kilka długości basenu, od razu poczujesz się lepiej, pełna sił i życia.10 grudnia Słońce znajdzie się w Strzelcu, co oznacza dla Ciebie dobre i złe wieści pod względem zawodowym. Z jednej strony Twój umysł będzie działał wyjątkowo rześko, będziesz pełna zapału i ambicji, z drugiej niestety</p><p><br></p><p>–skupiając się na dalekich planach, możesz przegapić coś przyziemnego, co później odbije Ci się czkawką. Jeśli więc polecisz, pamiętaj – tak jak Ikar, nie leć zbyt blisko Słońca! Oraz pamiętaj o osobach pracujących z Tobą</p><p><br></p><p>– nikomu nie jest miło obcować z arogantką. 19 grudnia Słońce wejdzie w znak Koziorożca i znacznie osłabi Twoją zawodową wydajność. Tym lepiej! Skup się na przygotowaniach do świąt i bliskich. Świat biznesu poradzi sobie bez Ciebie przez tydzień.</p><p><br></p><p>25 grudnia Wenus znajdzie się w tygodnie do Jowisza. Będziesz miała wyjątkowo towarzyski nastrój, więc koniecznie spotkaj się z kimś poza najbliższą rodziną. To dobry dzień na odwiedziny u przyjaciół czy kolację z kimś, z kim nie miałaś okazji zobaczyć się na Wigilii. Zobaczysz, jak wspaniale wpłynie to na Wasze relacje.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-18",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "RYBY 22.02 - 21.03",
+          "text": "<p>~Marta Mieczkowska</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Z początkiem miesiąca a dokładniej 2 grudnia Merkury wejdzie w znak Koziorożca, co najsilniej odczujesz w sferze zawodowej. Z jednej strony będziesz logiczna i zorganizowana, przez co zwiększy się Twoja wydajność, z drugiej – jeśli akurat wdrażane będą nowe metody pracy, dostosowanie się do nich pójdzie Ci wyjątkowo opornie. Podobnie będzie z innymi sferami życia – kwestie logiczne przełkniesz łatwo, ale irracjonalne okażą się twardszym niż zwykle orzechem do zgryzienia.7 grudnia Wenus wejdzie w znak Wodnika, co zaowocuje dla Ciebie chwiejnością i zaburzeniami koncentracji. Bardzo możliwe, że będziesz musiała zrezygnować z czegoś niezwykle dla Ciebie ważnego lub zostaniesz postawiona przed trudnym wyborem. Koniunkcja Słońca i Saturna 10 grudnia podniesie Ci samoocenę. Złapiesz wiatr w żagle i poradzisz sobie z problemami, które wcześniej ciążyły Ci niczym kotwica u szyi do kompletu z betonowymi butami. Uważaj tylko na słomiany zapał! Oraz na łapanie wielu srok za ogon – lepiej zrobić mniej, ale lepiej, niż porozpoczynać wiele zagadnień i odpuścić w połowie ze zmęczenia. 19 grudnia Mars wejdzie w Twój znak, co dobrze wpłynie na Twoją kondycję fizyczną. Ćwiczenia przyjdą Ci łatwiej, podobnie jak odmówienie sobie ciacha z bitą śmietaną.</p><p><br></p><p>Zadbaj o ciało: połóż maseczkę na twarz, odżywkę na włosy, wybierz się na manicure i pedicure. Zasługujesz na chwilę relaksu, w dodatku będziesz wyjątkowo podatna na zabiegi pielęgnacyjne. 21 grudnia Słońce wejdzie w znak Koziorożca, co może negatywnie wpłynąć na Twoje relacje z przyjaciółmi – będziesz nieufnie nastawiona do ich pomysłów oraz podejrzliwa bez potrzeby. Postaraj się przezwyciężyć te uczucia lub przełóż spotkanie na inny termin. Miesiąc zakończy Jowisz w opozycji do Urana, która pojawi się na niebie 26 grudnia Tego dnia będziesz chaotyczna, więc uważaj, by nie odbiło się to negatywnie na wynikach Twojej pracy. Jeśli możesz, postaw raczej na burzę mózgów i dyskusje niż żmudną część roboty.&nbsp;</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "PAN MARCIN ZIOŁO<br>OD \"A\" DO \"Z\"",
+          "text": "<p>~Marcin Zioło</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>A</b> - AWF moje podwórko i plac zabaw, przy okazji uczelnia.</p><p><b>B</b> - Badminton mój ulubiony sport, kiedy trzeba wygrywać z uczniami.</p><p><b>C</b> - Cierpliwość jest główną zaletą mojego charakteru.</p><p><b>D</b> - Duma z bycia wychowawcą 2LC.</p><p><b>E</b> - Empatyczny, tak przynajmniej twierdzą uczniowie</p><p><b>F</b> - Fikołki, pamiętajcie, że nie ma czegoś takiego. Są przewroty i przerzuty.</p><p><b>G</b> - Gry lubię wszystkie, od planszowych po sportowe.</p><p><b>H</b> - Herbata to napój, który mogę pić litrami.</p><p><b>I</b> - Indywidualista, czuję się lepiej, kiedy nie muszę polegać na innych.</p><p><b>J</b> - Jedzenie, no... kto nie lubi dobrze zjeść?</p><p><b>K</b> - Kuchnia, uważam się za dobrego kucharza, szczególnie dobrze wychodzą mi ciasta i desery.</p><p><b>L</b> - Librus to portal społecznościowy, który odwiedzam najczęściej.</p><p><b>M</b> - “Malezańska Księga Poległych”- polecam, od czasów szkolnych przeczytałem cały cykl trzy razy.</p><p><b>N</b> - Narciarstwo jest moim ulubionym sportem oraz moim motywem przewodnim.</p><p><b>O</b> - Optymista, gdyż zawsze jestem nastawiony do mojej klasy optymistycznie.</p><p><b>P</b> - Punktualność, jeśli mogę coś zrobić jutro, to zrobię to pojutrze i będę miał dwa dni wolnego.</p><p><b>R</b> - Radosny, cieszą mnie małe codzienne rzeczy.</p><p><b>S</b> - Skromność, bardzo ją w sobie cenię.</p><p><b>T</b> - Trener II stopnia dyscypliny pływania.</p><p><b>U</b> - Umiar, uważam, że wszystko jest dla ludzi, tylko trzeba umieć z tego korzystać.</p><p><b>W</b> - Windsurfing, to sport który jest moją kolejną pasją. Trochę prostsza żaglówka.</p><p><b>Z</b> - Zaradny albo złota rączka, lubię samemu naprawiać i remontować.</p><p><b>Ż</b> - Żeglarstwo to moje hobby i praca.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "SZKOLNA LIGA<br>SIATKÓWKI W LX LO",
+          "text": "<p>~Beata Opiela</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Szkolna Liga Siatkówki istnieje od roku szkolnego 1994/1995. Dziewczęta naszego liceum rozpoczęły grę w sezonie 2002/2003 pod trenerską opieką p. prof. Beaty Opieli a chłopcy dwa lata później z p. prof. Andrzejem Wesołowskim. Obydwie drużyny do tej pory reprezentują Górskiego w rozgrywkach bez żadnej przerwy. Najlepszy sezon dla chłopców to rok 2007/2008, kiedy zajmując II miejsce awansowali do I ligi. Najlepsze miejsce dziewcząt to IV w sezonie 2004/2005 oraz 2013/2014, po którym również awansowały do I ligi dzięki rezygnacji zespołów z II i III miejsca. Niestety, po roku gry obydwie drużyny powróciły do II ligi. Trzeba jednak zaznaczyć, że I liga to szkoły, które w swojej reprezentacji mają zawodników grających w klubach, co w naszej szkole trafia się niezwykle rzadko.</p><p><br></p><p>Szkolna Liga Siatkówki, to nie tylko szkoły warszawskie. Reprezentujemy i promujemy nasze liceum również poza Warszawą, grając mecze w Wyszkowie, Wołominie, Błoniu, Markach, Tłuszczu, Milanówku czy Legionowie.</p><p><br></p><p>W tym sezonie 2016/2017 zdecydowanie lepiej wiedzie się dziewczętom, które po I rundzie zajmują III miejsce i mają szansę na miejsce medalowe.</p><p><br></p><p>Gra w Szkolnej Lidze to emocje związane z rywalizacją, ale również trening i przygotowanie do mistrzostw Dzielnicy, w których od dłuższego już czasu LX LO plasuje się w ścisłej czołówce. To właśnie dzięki między innymi doświadczeniu, które zdobywają nasi reprezentanci podczas rozgrywanych meczy w SLS.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1e",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright ©&nbsp;2017 Pleciuch.Górski.edu.pl.<br>Design by Ydashiak."
+        }
+      ]
+    },
+    "kwiecien-2017.html": {
+      "settings": {
+        "title": "Artykuły - Kwiecień 2017",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#27713d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#308c4b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#349751"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#28324e!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1f",
+          "_params": {
+            "bgColor": "#349751",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GÓRSKIE PLECIUCHY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">REDAKCJA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ARTYKUŁY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">2017</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"styczen-2017.html\">STYCZEŃ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kwiecien-2017.html\">KWIECIEŃ</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"kwiecien-2017.html\">NAJNOWSZE</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "KWIECIEŃ 2017",
+          "text": "Wszystkie artykuły wydane w kwietniu 2017 r.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1h",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "PAN ŁUKASZ POPIELARSKI<div>OD \"A\" DO \"Z\"</div>",
+          "text": "<p>~Łukasz Popielarski</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>A</b> - aktualnie jestem wychowawcą 1bg.</p><p><b>B</b> - bardzo lubię swoją brodę.</p><p><b>C </b>- ceylon, rodzaj herbaty, którą lubię, z powodu jej wyrazistego smaku.</p><p><b>D</b> - drzemią we mnie wielkie możliwości.</p><p><b>E</b> - energię daje mi moja kawa.</p><p><b>F</b> - fajnie było w lutym, z powodu seansu w kinie pt.”Ciemniejsza strona Greya”</p><p><b>G</b> - gadatliwość, strasznie lubię dużo mówić.</p><p><b>H</b> - Himalaje, oto credo naszej szkoły.</p><p><b>I</b> - idealista, bo stawiam przed sobą szlacheckie cele.</p><p><b>J</b> - jedzenie musi być dobre i koniec kropka.</p><p><b>K</b> - kocham kino, ponieważ ma moc.</p><p><b>L</b> - ”lasy, łąki i pagórki wszystko było do powtórki”-mój ulubiony rym.</p><p><b>Ł</b> - Łukasz to moje imię, ale też jest imieniem mojego przyjaciela Łukasza Plęsa.</p><p><b>M</b> - moja mama jest kochana, z bardzo wielu powodów.</p><p><b>N</b> - najlepsza książka jaką przeczytałem to “50 twarzy Greya”.</p><p><b>O</b> - obiektywnie patrzę na wyniki mojej klasy w nauce.</p><p><b>P</b> - piłkarz to moje niespełnione marzenie.</p><p><b>R</b> - raczej lubię pracę “bikos aj lijak jang pipol”.</p><p><b>S</b> - samoobrona, uczę jej w naszej szkole.</p><p><b>T</b> - temperament jest u mnie bardzo widoczny.</p><p><b>U</b> - uważam, że życie jest piękne, ponieważ we wszystkim trzeba dostrzegać piękno.</p><p><b>W</b> - wiele książek zostało mi do przeczytania.</p><p><b>Z</b> - zostałem nauczycielem, Rany Boskie.</p><p><b>Ż</b> - żartobliwy, staram się, aby moje żarty bawiły innych ludzi.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "WYRAŻENIA Z DWOMA NIEWIADOMYMI:<br>GORSKI I DIEGO",
+          "text": "<p>~Julia Juszczyk</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Na przełomie lutego i marca osiemnaścioro naszych uczniów, w ramach programu Erasmus+,  odwiedziło Hiszpanię. Projekt nazwany Wyrażenia z dwoma niewiadomymi: Gorski i Diego, zakładał współpracę uczniów dwóch europejskich szkół, polskiej i hiszpańskiej. Projekt rozpoczęty 1 listopada 2015 zawierał w sobie 4 wizyty, po dwie w każdym z krajów. W styczniu  2016  odwiedzili nas hiszpańscy nauczyciele, w kwietniu 2016, uczniowie z Hiszpanii mieli okazję zwiedzić Warszawę, Kraków i Oświęcim podczas tygodniowego pobytu  w Polsce. Nasi nauczyciele pojechali do Madrytu na przełomie września i października 2016 roku. Ostatnią wizytą projektową była wizyta uczniów naszej szkoły w Madrycie. Oto wywiad z kilkorgiem uczestników wyjazdu, którzy opowiadają naszej reporterce, Patrycji o swoich przeżyciach w Hiszpanii.</p><p><br></p><p><b>1. Gdzie mieszkaliście w trakcie pobytu u Hiszpanii?</b></p><p>Kamil, Monika: W Madrycie, w hostelu o nawzie „The Hat”, niedaleko Plaza Mayor</p><p><br></p><p><b>2. Na czym polega projekt ,,Expressions With Two Variables – Gorski and Diego”</b></p><p>Karolina Kaczorowska: Na poznawaniu nowych ludzi. Szkoleniu swojego języka angielskiego, zwiedzaniu nowych miejsc.</p><p><br></p><p><b>3. Czy Hiszpanie chętnie posługują się jezykiem angielskim?</b></p><p>Karolina Kaczorowska, Monika: Tak. Bardzo biegle mówią po angielsku</p><p><br></p><p><b>4. Co odwiedziliście w trakcie wyjazdu?</b></p><p>Karolina Kaczorowska: Salamankę, Toledo, muzeum Prado,</p><p>Kamil:Był tam bazarek,w  sumie podobny do naszego, jak Wolumen. Można tam było kupić różne rzeczy.</p><p>Karolina Kaczorowska: Typowe hiszpańskie rękodzieło.</p><p><br></p><p><b>5. Czy mieliście okazję nawiązać bliższe relacje z Hiszpanami?</b></p><p>Monika: Tak, mieliśmy czas wolny, kiedy mogliśmy swobodnie porozmawiać.</p><p>Karolina Kaczorowska: Spędzić razem czas, porozmawiac sobie na spokojnie bez nauczycieli, na tematy które nas szczególnie interesują.</p><p>Kamil: I o dziwo mamy wiele wspólnego.</p><p><br></p><p><b>6. Utrzymujecie kontakt z poznanymi tam osobami?</b></p><p>Wszyscy: Tak.</p><p><br></p><p><b>7. Co było najbardziej interesujące?</b></p><p>Monika: Wyjazd do Toledo, stamtąd mamy najpiękniejsze wspomnienia.</p><p>Kamil: Świetne miasto, takie ze średniowiecznych czasów. Ogrodzone  rzeką, położone na malowniczych wyżynach. &nbsp;</p><p>Karolina Kaczorowska: W sumie wygląda jak nasza Starówka, tyko że to jest całe miasto. Ogólnie jest tam ślicznie. A! I gry miejskie były fajne, nie chwaląc się wygrałam.</p><p><br></p><p><b>8. Czy odwiedziliście tamtejsze szkoły?</b></p><p>Monika, Karolina Kaczorowska: Tak</p><p>Kamil: Dokładnie jedną, Gerardo Diego.</p><p><br></p><p><b>9. Ile trwała podróż?</b></p><p>Karolina Kaczorowska: 4h?</p><p>Kamil: 3,5 godziny w jedną stronę, w drugą…3 godziny?</p><p>Monika: Nie, mieliśmy opóźnienie, ale to jak lecieliśmy do Madrytu, to było 4, albo 4,5 godziny.</p><p>Kamil: Naprawdę?</p><p>Karolina Kaczorowska: Nie pamięta, bo przespał połowę podróży.</p><p><br></p><p><b>10. Czy poznaliście jakiekolwiek tamtejsze tradycje?</b></p><p>Kamil: Tak, zwłaszcza kulinarne.</p><p>Monika: Hiszpanie nie wychodzą z imprez,y dopóki nie zjedzą churros.</p><p>Kamil: Churros to są takie, bardzo tłuste pałeczki- ciasteczka.</p><p>Monika: Są bardzo słodkie, trochę jak ciasto francuskie, smażone w  głębokim oleju.</p><p>Kamil: U nich jedzenie to w większości owoce morza, małże i tuńczyk, bardzo dużo jedzą tuńczyka.</p><p>Karolina Kaczorowska: Dla mnie zaskakujące było to, że potrawy hiszpańskie są bardzo tłuste.</p><p><br></p><p><b>11. Która ze spróbowanych  potraw, wydawała się najsmaczniejsza?</b></p><p>Monika: Paella, nie no żartowałam.</p><p>Karolina Kaczorowska: Ja zasmakowałam w….., nie pamiętam, jak się nazywały-takie kulki.</p><p>Monika: Croquetas!</p><p>Karolina Kaczorowska: Tak! To jest pyszne.</p><p>Kamil: To są takie kuleczki w cieście.</p><p>Monika: Moją ulubiona potrawą były ziemniaki z serem.</p><p>Karolina Kaczorowska: Ziemniaki były serwowane na różne sposoby, bo czasem ze zmielonym kurczakiem z serem. Wtedy potrawa była  mięciutka w środku, a na górze chrupiąca…Pycha!</p><p>Kamil: No i małże osobiście mi smakowały i pajeja.</p><p><br></p><p><b>12. Czy tamtejsza kultura zawiera aspekty podobne do polskich? Jeśli tak, to jakie?</b></p><p>Kamil: Wydaje mi się, że pod względem imprezy, na pewno.  No i w sumie ich miasto żyje w nocy, jak niektóre nasze.</p><p>Karolina Kaczorowska: Natomiast ja nie zgadzam się z Kamilem. Oni nie są do nas podobni, są bardzo głośni, powolni w działaniu. To mnie irytowało.</p><p>Kamil: Mają inne nastawienie do wspólnej pracy.</p><p>Karolina Kiślak: Tak, są zdecydowanie bardziej zgrani.</p><p>Kamil: Zwracają na siebie nawzajem większa uwagę, są bardziej tolerancyjni. Nie lubią się wkurzać, i ogólnie, są mili.</p><p><br></p><p><b>13. Czy mieliście jakieś szczególne obowiązki związane z realizowaniem projektu?</b></p><p>Monika: Mieliśmy lekcje z KhanAcademy.</p><p>Kamil: Musieliśmy opisać po angielsku wybrany obraz, który widzieliśmy w muzeum.</p><p>Karolina Kaczorowska: Musieliśmy robić prezentacje.</p><p>Monika: Prezentacje o naszej szkole.</p><p>Karolina Kaczorowska: Uczestniczyliśmy w ich lekcjach.</p><p><br></p><p><b>14. Czy komunikacja na targach czy straganach przebiegała pomyślnie?</b></p><p>Monika: Tak, bardzo łatwo się dogadać.</p><p>Karolina Kaczorowska: Ale, kiedy kupowaliśmy oliwki, trzeba było mówić po hiszpańsku.</p><p>Monika: To zależy od sprzedawcy</p><p>Kamil: Ale generalnie w takich większych sklepach wszyscy mówią po angielsku.</p><p>Karolina Kaczorowska: Czasami my mówiliśmy po angielsku, oni po hiszpańsku.</p><p>Kamil: Generalnie, tak i komunikacja była płynna.</p><p><br></p><p><b>15. Z jakimi nauczycielami pojechaliście?&nbsp;</b></p><p>Monika: Z panią Beatą Furgą i panią Anną Kot.</p><p><br></p><p><b>16. I jak wyglądały relacje z nimi?</b></p><p>Wszyscy: Rodzinnie.&nbsp;</p><p>Monika: Tak było bardzo przyjemnie.</p><p><br></p><p><b>17. W jaki sposób przebiegała rekrutacja na wyjazd?</b></p><p>Kamil: Ten kto więcej zrobił, ten pojechał.</p><p>Karolina Kaczorowska: Ten, kto brał udział w projektach.</p><p>Emilia Kaczorowska: Pojechali ci, którym zależało. Wystarczyło chcieć i się starać.</p><p><br></p><p><b>18. Jak poruszaliście się po terenie kraju?</b></p><p>Monika: Pociągiem, autokarem.</p><p>Karolina Kaczorowska: Taka ciekawostka, zrobiliśmy 150 km na piechotę, możliwe że nawet ponad.</p><p><br></p><p><b>19. Dowiedzieliście się jakiś ciekawych faktów na temat hiszpańskiej kultury?</b></p><p>Karolina Kaczorowska: Że sa głośni to wiedzieliśmy.</p><p>Kamil: W sumie zaskoczyły nas pory posiłków. Niektórzy mówili, że jedzą obiad o 3 w nocy.</p><p>Monika: Kiedy my jemy obiad, to oni jedzą lunch.</p><p>Kamil: Dlatego byliśmy głodni ok. 15, a oni jedli dopiero pod wieczór 19-22.</p><p>Monika: O 22 jedzą obiad taki jak my po południu.</p><p>Kamil: I nie są grubi.</p><p><br></p><p><b>20. Jak wyglądały wasze posiłki?</b></p><p>Karolina Kaczorowska: Śniadanie jedliśmy w hotelu.</p><p>Monika: Mieliśmy szwedzki stół, można było sobie wybrać: tosty robione na mini grillu elektrycznym lub w tosterze. Potem obiad, na który nie mogliśmy się doczekać. Oczywiście my byliśmy głodni, oni nie. Zestaw dań obiadowych był zawsze bardzo urozmaicony. Staraliśmy się próbować wszystkich hiszpańskich, tradycyjnych potraw.</p><p>Kamil: A kolacje przyrządzaliśmy we własnym zakresie.&nbsp;</p><p>Karolina Kaczorowska: Na przykład dostawaliśmy pieniądze i sobie szliśmy zjeść tam, gdzie chcieliśmy.</p><p>Karolina Kiślak: Ja do McDonald’s</p><p>Karolina Kaczorowska: A my nie.</p><p><br></p><p><b>21. Ile kosztował wyjazd? I ile osób pojechało?</b></p><p>Karolina Kaczorowska: Projekt w całości został sfinansowany przez Unię Europejską. Pojechało osiemnastu uczniów i dwóch nauczycieli.</p><p><br></p><p><b>22. Jakie są wasze ogólne wrażenia z wyjazdu?</b></p><p>Karolina Kaczorowska: Bardzo fajne.&nbsp;</p><p>Monika: Chętnie byśmy tam wrócili.</p><p>Karolina Kaczorowska: Bardzo chętnie!</p><p>Kamil: Wspomnienia są wspaniałe, niezapomniane!</p><p>Karolina Kaczorowska: Jeśli ma ktoś okazję pojechać na taką wymianę, niech się nawet przez chwilę nie zastanawia i nie waha!</p><p><br></p><p>Wywiad przeprowadziła Patrycja Wójcik.</p><p><br></p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1l",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "MUZYKA REGGAE W POLSCE",
+          "text": "<p>~Bartosz Mróz</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Muzyka reggae w Polsce nie cieszy się  dużą popularnością. Często kategoryzuje się ją nawet  jako muzykę Indie. Pomimo dużej ilości festiwali reggae w Polsce oraz stosunkowo wysokiej frekwencji na koncertach w czasie sezonu, poza kręgiem zainteresowanych o muzyce reggae w Polsce nie słyszy się niemal wcale. – Reggae nie przebija się do mainstreamu, nawet przy okazji wizyt w Polsce największych gwiazd (takich Jak koncert Gentelmana na ORF w 2015r.)</p><p><br></p><p><b>Polska muzyka reggae – Skąd ten hejt na polskie reggae?</b></p><p>&nbsp;Oczywiście akurat tą grafikę można odczytywać dwojako. Jednak podobnych do tego typu obrazków niestety w sieci nie brakuje.  Jak już wspomniałem reggae ma  problem z przebiciem się do polskiego mainstreamu. Jednak są wykonawcy, którym się to udało. &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Piosenek Kamila Bednarka możemy słuchać w radiu, widujemy artystę  w telewizyjnych wywiadach. Może właśnie przez to, że tak krytycznie odbierana przez Polaków osoba, stała największą ikoną reggae w Polsce, działa niekorzystnie na odbiór całego gatunku. Ponadto polskie reggae znacznie różni się od tego rodzimego - Jamajskiego.</span></p><p><br></p><p>Przemysł muzyczny w Polsce – Od dawna nie było tak źle.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Wykonawcy mają coraz więcej strapień. Obecnie nie tak prosto jest się utrzymać z muzyki. Wielu Polskich wykonawców reggae niestety nie jest w stanie.</span></p><p><br></p><p>Płyty CD sprzedają się coraz słabiej, winyle wypuszczane są w minimalnym nakładzie, ponieważ w naszym kraju nie jest to dość popularne. Na zachodzie ludzie nie kupują fizycznych albumów już prawie wcale. Normalne stało się tam kupowanie przez Internet, muzyki w formie plików. W Polsce również przestaliśmy kupować płyty, ale jeszcze nie zaczęliśmy za nie płacić.&nbsp;</p><p>&nbsp;Niektórzy wykonawcy są w stanie utrzymać się dziś z samego  koncertowania. Jednak frekwencja na koncertach z roku na rok spada. A nadejście nowego, skomputeryzowanego pokolenia wcale nie napawa producentów muzycznych optymizmem.</p><p><br></p><p>Niektórzy wykonawcy są w stanie utrzymać się dziś z samego  koncertowania. Jednak frekwencja na koncertach z roku na rok spada. A nadejście nowego, skomputeryzowanego pokolenia wcale nie napawa producentów muzycznych optymizmem.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/OhneArbeitStummKuche/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1333.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "TOLERANCJA",
+          "text": "<p>~Weronika Strzelak</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Na początku pragnę się skupić nad samą istotą tolerancji. Czym jest ona dla nas? Według słownika wyrazów obcych tolerancja to cierpliwość i wyrozumiałość dla odmienności. Współcześnie rozumiana tolerancja to szacunek dla wolności innych ludzi, ich myśli i opinii oraz sposobu życia. Najczęściej na zadane nam pytanie “Czy jestem tolerancyjny/a?” odpowiadamy “TAK”, ale czy zdajemy sobie sprawę z tego, jak zachowuje się osoba tolerancyjna? W związku z taką odpowiedzią musimy zadać sobie parę pytań. Mianowicie “Czy tolerujesz nowych sąsiadów, którzy są  Azjatami? Czy godzisz się z odmiennym zachowaniem osób zamkniętych w sobie, nadmiernie otyłych?</p><p><br></p><p>Każdy z nas powinien odpowiedzieć sobie w duszy na te pytania. Przecież każdy z nas ma prawo do prywatnego zdania i nie musimy popierać czyjejś postawy, jeśli nie odpowiada ona naszym przekonaniom, ale to nie oznacza, że mamy prawo do osądzania innych, bowiem to nie kolor skóry, religia czy orientacja seksualna decyduje o tym, że ktoś jest złym lub bezwartościowym człowiekiem.</p><p><br></p><p>&nbsp;Tolerancja jest drogą do pokoju ze światem, pamiętajmy o tym, że nie warto kierować się uprzedzeniami do innych ludzi, gdyż każdy z nas chce żyć własnym życiem, sam dokonywać wyborów, nikt nie chce bać się drugiego człowieka. Każdy chce być szanowany i tolerowany przez innych bez względu na swoją odmienność. Trzeba pamiętać o tym, że, jeśli chcemy, by nasze społeczeństwo funkcjonowało poprawnie, potrzebna jest nasza tolerancja względem innych osób. Jeśli by jej nie było, doprowadziłoby to do konfliktów różnego typu. Dlatego starajmy się jak najczęściej uświadamiać innym i sobie “Czym jest tolerancja?”</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1x",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright ©&nbsp;2017 Pleciuch.Górski.edu.pl.<br>Design by Ydashiak."
+        }
+      ]
+    }
+  }
+}
