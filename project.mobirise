@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 77,
+    "uniqCompNum": 83,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1039,6 +1039,9 @@
       "settings": {
         "title": "Redakcja",
         "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
         "order": 2
       },
       "components": [
@@ -1095,7 +1098,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1y",
+          "_anchor": "menu-26",
           "_params": {
             "bgColor": "#349751",
             "fontSize": 0.75,
@@ -1144,12 +1147,12 @@
             "Theme"
           ],
           "_name": "header5",
-          "_anchor": "header5-21",
+          "_anchor": "header5-28",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-2.jpg",
             "bgColor": "#28324e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1179,7 +1182,7 @@
               "background-color": "#28324e"
             }
           },
-          "_anchor": "features2-24",
+          "_anchor": "features2-29",
           "_params": {
             "columnsColor": "#28324e",
             "paddingTop": 2,
@@ -1305,26 +1308,6 @@
           "subtitle6": "Redaktor",
           "caption6": "&lt;Twój tekst&gt;",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1z",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright ©&nbsp;2017 Pleciuch.Górski.edu.pl.<br>Design by Ydashiak."
         }
       ]
     }
