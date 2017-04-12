@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Górskie Pleciuchy",
-    "currentPage": "styczen-2017.html",
+    "currentPage": "redakcja.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1174,6 +1174,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#28324e"
+            }
+          },
           "_anchor": "features2-24",
           "_params": {
             "columnsColor": "#28324e",
@@ -1299,12 +1304,7 @@
           "title6": "W. Wojno",
           "subtitle6": "Redaktor",
           "caption6": "&lt;Twój tekst&gt;",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#28324e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
